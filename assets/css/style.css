@@ -2,3 +2,16 @@
 
 /* Rouge syntax highlighting */
 .highlight .c,.highlight .c1,.highlight .cm,.highlight .cs{color:#6e7681;font-style:italic}.highlight .k,.highlight .kd,.highlight .kn,.highlight .kp,.highlight .kr,.highlight .kt{color:#d2a8ff}.highlight .o,.highlight .ow{color:#ff7b72}.highlight .m,.highlight .mf,.highlight .mh,.highlight .mi,.highlight .mo{color:#79c0ff}.highlight .s,.highlight .s1,.highlight .s2,.highlight .sb,.highlight .sc,.highlight .sd,.highlight .sh,.highlight .si,.highlight .sx{color:#a5d6ff}.highlight .na,.highlight .nc,.highlight .nd,.highlight .ne,.highlight .nf,.highlight .nl{color:#d2a8ff}.highlight .nb,.highlight .bp{color:#79c0ff}.highlight .nt{color:#7ee787}.highlight .nv,.highlight .vc,.highlight .vg,.highlight .vi{color:#ffa657}.highlight .no{color:#79c0ff}.highlight .err{color:#ff7b72}.highlight .p{color:#c9d1d9}
+
+/* Keep Rouge output visible against the terminal background. */
+.post-content .highlight{background:transparent;color:#d7dbe0}
+.post-content .highlight pre{background:transparent;border:0;box-shadow:none;margin:0;padding:0;overflow:visible}
+.post-content .highlight code{background:transparent;color:#d7dbe0}
+.post-content .highlight .gp{color:#8b949e}
+.post-content .highlight .go{color:#8b949e}
+.post-content .highlight .ge{color:#f0f6fc;font-style:italic}
+.post-content .highlight .gs{font-weight:600}
+.post-content .highlight .gu{color:#79c0ff}
+.post-content .highlight .gh{color:#79c0ff;font-weight:600}
+.post-content .highlight .w{color:#d7dbe0}
+.post-content .highlight .err{color:#ff7b72}
