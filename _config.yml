@@ -4,6 +4,10 @@ url: "https://dokupeinu.github.io"
 baseurl: "/HTB_Writeups"
 markdown: kramdown
 highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    disable: false
 permalink: /writeups/:title/
 plugins:
   - jekyll-feed
