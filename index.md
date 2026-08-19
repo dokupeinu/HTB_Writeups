@@ -4,8 +4,8 @@ title: Home
 ---
 <section class="hero">
   <div class="eyebrow">PENETRATION TESTING / HTB</div>
-  <h1>Security research,<br>documented.</h1>
-  <p>Practical writeups from Hack The Box, covering enumeration, exploitation and privilege escalation.</p>
+  <h1>HTB Writeups</h1>
+  <p>Hack The Box machines and labs documented with the techniques and commands used.</p>
 </section>
 
 <section>
