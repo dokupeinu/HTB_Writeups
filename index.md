@@ -4,8 +4,8 @@ title: Home
 ---
 <section class="hero">
   <div class="eyebrow">PENETRATION TESTING / HTB</div>
-  <h1>Hack. Learn.<br>Document.</h1>
-  <p>Writeups and notes from Hack The Box machines, labs, and penetration testing practice.</p>
+  <h1>Security research,<br>documented.</h1>
+  <p>Practical writeups from Hack The Box, covering enumeration, exploitation and privilege escalation.</p>
 </section>
 
 <section>
@@ -23,7 +23,7 @@ title: Home
         </div>
       </a>
     {% else %}
-      <div class="callout">No writeups yet. The first one is on its way.</div>
+      <div class="callout">No writeups published yet.</div>
     {% endfor %}
   </div>
 </section>
